@@ -1,0 +1,6 @@
+,Short,Medium,Long,Gradual,Alternating
+Baseline,69.23,83.91,93.57,73.01,85.4
+LogReg,100.0,100.0,99.42,97.55,99.56
+RandomForest,100.0,98.85,98.83,88.96,94.69
+IsolationForest,43.59,63.22,84.8,67.48,61.95
+OneClassSVM,100.0,100.0,100.0,100.0,100.0
